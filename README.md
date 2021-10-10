@@ -7,7 +7,7 @@ Carpet is good because Carpet finds wideos in [Anthonk's explains series](https:
 ## Installation steps
 
 ```console
-$ git clone https://github.dev/3ok/carpet
+$ git clone https://github.com/3ok/carpet
 $ cd carpet
 $ virtualenv venv
 $ . venv/bin/activate
