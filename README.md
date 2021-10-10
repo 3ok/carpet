@@ -4,6 +4,16 @@
 
 Carpet is good because Carpet finds wideos in [Anthonk's explains series](https://www.youtube.com/playlist?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY)
 
+## Installation steps
+
+```console
+$ git clone https://github.dev/3ok/carpet
+$ cd carpet
+$ virtualenv venv
+$ . venv/bin/activate
+(venv) $ pip install . 
+```
+
 ## Usage
 
 ```console
